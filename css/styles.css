@@ -1,0 +1,52 @@
+* {
+
+  margin: 0;
+  padding: 0;
+}
+
+main {
+
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  background-color: #F7F3F3;
+  padding-top: 10px;
+}
+
+#header {
+
+  background-color: #8B7474;
+  border: solid 1px white;
+  border-radius: 5px;
+  margin: 0 10px 10px 10px;
+}
+
+article {
+  margin: 1em;
+  color: #3E2727;
+}
+
+h1 {
+
+    text-align: center;
+}
+
+h3 {
+
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+img {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+figcaption {
+
+  text-align: center;
+  margin-top: 15px;
+  padding-bottom: 10px;
+}
