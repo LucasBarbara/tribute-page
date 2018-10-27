@@ -72,7 +72,8 @@ li {
 
 ul {
 
-margin-bottom: 1.5em;  
+margin-bottom: 1.5em;
+list-style: none;
 }
 
 a {
